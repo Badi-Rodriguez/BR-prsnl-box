@@ -1,0 +1,3 @@
+C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug/CMakeFiles/BR_prsnl_box.dir
+C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug/CMakeFiles/rebuild_cache.dir
