@@ -149,13 +149,37 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2024.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLSharedTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLSharedTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLSharedTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Libraries/SFML-2.6.2/lib/cmake/SFML/SFMLConfigDependencies.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug",
-		"source" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box"
+		"build" : "C:/Users/Badir/Documents/projects/project_esprit_model_C/cmake-build-debug",
+		"source" : "C:/Users/Badir/Documents/projects/project_esprit_model_C"
 	},
 	"version" : 
 	{

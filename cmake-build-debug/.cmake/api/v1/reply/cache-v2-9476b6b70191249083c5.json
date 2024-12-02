@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "BR_prsnl_box_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug"
-		},
-		{
-			"name" : "BR_prsnl_box_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "BR_prsnl_box_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box"
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -91,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug"
+			"value" : "c:/Users/Badir/Documents/projects/project_esprit_model_C/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Badir/Documents/projects/project_esprit_model_C/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Badir/Documents/projects/repo_BR_prsnl_box"
+			"value" : "C:/Users/Badir/Documents/projects/project_esprit_model_C"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/BR_prsnl_box"
+			"value" : "C:/Program Files (x86)/project_esprit_model_C"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -911,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "BR_prsnl_box"
+			"value" : "project_esprit_model_C"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1306,6 +1270,18 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "SFML_DOC_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "SFML_DOC_DIR-NOTFOUND"
+		},
+		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
 			"properties" : 
 			[
@@ -1316,6 +1292,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "project_esprit_model_C_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Badir/Documents/projects/project_esprit_model_C/cmake-build-debug"
+		},
+		{
+			"name" : "project_esprit_model_C_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "project_esprit_model_C_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Badir/Documents/projects/project_esprit_model_C"
 		}
 	],
 	"kind" : "cache",
